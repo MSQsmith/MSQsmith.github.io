@@ -21,17 +21,17 @@
     - [Transform the data](#transform-the-data).
     - [Creating SQL Views](#create-the-sql-view)
 - [Testing](#testing)
-    -[#Data Quality Tests].
--[Visualization].
-    -[#Results].
-    -[#DAX Measures].
---[Analysis].
-  -[#Findings].
-  -[#Validation].
-  -[Discovery].
-  -[Recommendations].
-  -[Potential ROI].
- -[Potential Courses of Actions].
+    -[Data Quality Tests](#Data Quality Tests)
+-[Visualization](#Visualization)
+    -[Results](#Results)
+    -[DAX Measures](#DAX Measures)
+-[Analysis](#Analysis)
+  -[Analysis](#Analysis)
+  -[Validation](#Validation)
+  -[Discovery](#Discovery)
+  -[Recommendations](#Recommendations)
+  -[Potential ROI](#[Potential ROI)
+ -[Potential Courses of Actions](#Potential Courses of Actions)
 Conclusion
 
 
@@ -42,6 +42,8 @@ Conclusion
 
   
 Objective
+
+
 What is the key pain point?
 The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
 

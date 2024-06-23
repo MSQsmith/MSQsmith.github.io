@@ -20,15 +20,15 @@
     - [ Data cleaning](#data_cleaning).
     - [Transform the data](#transform-the-data).
     - [Creating SQL Views](#create-the-sql-view)
-- [Testing](#testing).
+- [Testing](#testing)
    -[Data Quality Tests]
  -[Visualization]
    - [Results]
-  -[DAX Measures]
--[Analysis]
--[Findings]
- - [Validation]
-- [Discovery]
+   -[DAX Measures]
+   -[Analysis]
+   -[Findings]
+- [Validation]
+   - [Discovery]
 -[Recommendations]
   -[Potential ROI]
  -[Potential Courses of Actions]

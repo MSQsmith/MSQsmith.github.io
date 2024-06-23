@@ -4,22 +4,22 @@
 # Analysing Top_UK_YouTuber_2024
 
 
-## Subheader (Data Analytics Project) 
+## Data Analytics Project
 
 ## Table of Contents 
 
 - [Objective](#Objectives).
 - [Data Source].(#data_source).
-- [Stages].(#stages).
-- [Design].(#design).
-   - [Monkup].(#monkup).
-   - [Tools].(#tools).
-- [ Development].(development).
-    - [Pseudocode].(#pseudocode). 
-    - [ Data exploration].(#data_exploration).
-    - [ Data cleaning].(#data_cleaning).
-    - [Transform the data].(#transform-the-data).
-    - [Creating SQL Views].(#create-the-sql-view).
+- [Stages](#stages).
+- [Design](#design).
+   - [Monkup](#monkup).
+   - [Tools](#tools).
+- [ Development](#development).
+    - [Pseudocode](#pseudocode). 
+    - [ Data exploration](#data_exploration).
+    - [ Data cleaning](#data_cleaning).
+    - [Transform the data](#transform-the-data).
+    - [Creating SQL Views](#create-the-sql-view).
 - [Testing](#testing).
   -[Data Quality Tests]
 - [Visualization]

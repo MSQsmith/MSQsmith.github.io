@@ -34,6 +34,7 @@ Conclusion
 
 
    ![Dashboardmonkup].(Assets/Images/dashboard_mockup.png).
+   
   ![Dashbaord].(Assets/Images/Dashboard:PWBI).
 
 
@@ -75,7 +76,7 @@ Where is the data coming from? The data is sourced from Kaggle (an Excel extract
 5.Analysis
 6.Design
 
-Dashboard components required
+- Dashboard components required
 What should the dashboard contain based on the requirements provided?
 To understand what it should contain, we need to figure out what questions we need the dashboard to answer:
 
@@ -87,7 +88,7 @@ To understand what it should contain, we need to figure out what questions we ne
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 7. For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
-Dashboard mockup
+# Dashboard mockup
 What should it look like?
 Some of the data visuals that may be appropriate in answering our questions include:
 
@@ -97,7 +98,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart
 
    
-Toold used                          
+# Toold used                          
 
 Tool	Purpose
 Excel	        Exploring the data
@@ -107,7 +108,7 @@ GitHub	      Hosting the project documentation and version control
 Mokkup AI     Designing the wireframe/mockup of the dashboard
 
 
-Development
+## Development
 Pseudocode
 What's the general approach in creating this solution from start to finish?
 1. Get the data

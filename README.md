@@ -21,15 +21,15 @@
     - [Transform the data](#transform-the-data).
     - [Creating SQL Views](#create-the-sql-view)
 - [Testing](#testing)
-    -[Data Quality Tests].
+    -[#Data Quality Tests].
 -[Visualization].
-    -[Results].
-    -[DAX Measures].
--[Analysis].
-   -[Findings].
-  -[Validation].
+    -[#Results].
+    -[#DAX Measures].
+--[Analysis].
+  -[#Findings].
+  -[#Validation].
   -[Discovery].
--[Recommendations].
+  -[Recommendations].
   -[Potential ROI].
  -[Potential Courses of Actions].
 Conclusion

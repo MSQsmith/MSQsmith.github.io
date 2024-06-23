@@ -9,7 +9,7 @@
 ## Table of Contents 
 
 - [Objective](#Objectives).
-- [Data Source].(#data_source).
+- [Data Source](#data_source).
 - [Stages](#stages).
 - [Design](#design).
    - [Monkup](#monkup).
@@ -19,9 +19,9 @@
     - [ Data exploration](#data_exploration).
     - [ Data cleaning](#data_cleaning).
     - [Transform the data](#transform-the-data).
-    - [Creating SQL Views](#create-the-sql-view).
+    - [Creating SQL Views](#create-the-sql-view)
 - [Testing](#testing).
-  -[Data Quality Tests]
+  -[Data](#Quality Tests).
 - [Visualization]
     - [Results]
        -[DAX Measures]
@@ -31,7 +31,7 @@
   - [Discovery]
 -[Recommendations]
    -[Potential ROI]
-   -[Potential Courses of Actions].
+   -[Potential Courses of Actions]
 Conclusion
 
 

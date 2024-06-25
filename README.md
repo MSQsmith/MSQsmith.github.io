@@ -38,7 +38,7 @@
 
    ![Dashboardmonkup](Assets/Images/dashboard_mockup.png).
    
-  ![Dashbaord](Assets/Images/Dashboard:PWBI).
+  ![Dashbaord](Assets/Images/DashboardPWBI).
 
 
   

@@ -21,24 +21,24 @@
     - [Transform the data](#transform-the-data).
     - [Creating SQL Views](#create-the-sql-view)
 - [Testing](#testing)
-      -[Data QualityTests](#DataQualityTests)
+     -[Data QualityTests](#DataQualityTests)
 -[Visualization](#Visualization)
     -[Results](#Results)
-    -[DAX Measures](#DAX Measures)
+    -[DAX Measures](#DAXMeasures)
 -[Analysis](#Analysis)
-   -[Findings](f#findings)
-   -[Validation](#Validation)
-   -[Discovery](#Discovery)
+    -[Findings](f#findings)
+    -[Validation](#Validation)
+    -[Discovery](#Discovery)
 -[Recommendations](#Recommendation)
-  -[Potential ROI](#PotentialROI)
-  -[Potential Courses ofActions](#PotentialCoursesofActions)
+   -[Potential ROI](#PotentialROI)
+   -[Potential Courses ofActions](#PotentialCoursesofActions)
   
 -[Conclusion]
 
 
-   ![Dashboardmonkup].(Assets/Images/dashboard_mockup.png).
+   ![Dashboardmonkup](Assets/Images/dashboard_mockup.png).
    
-  ![Dashbaord].(Assets/Images/Dashboard:PWBI).
+  ![Dashbaord](Assets/Images/Dashboard:PWBI).
 
 
   

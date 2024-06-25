@@ -30,9 +30,9 @@
   -[Validation](#Validation)
   -[Discovery](#Discovery)
   -[Recommendations](#Recommendations)
-  -[Potential ROI](#[Potential ROI)
+  -[Potential ROI](#Potential ROI)
  -[Potential Courses of Actions](#Potential Courses of Actions)
-Conclusion
+-[Conclusion]
 
 
    ![Dashboardmonkup].(Assets/Images/dashboard_mockup.png).

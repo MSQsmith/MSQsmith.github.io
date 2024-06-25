@@ -38,8 +38,7 @@
 
    ![Dashboardmonkup](Assets/Images/dashboard_mockup.png).
    
-  ![Dashbaord](Assets/Images/DashboardPWBI).
-
+  ![Dashbaord]
 
   
 Objective

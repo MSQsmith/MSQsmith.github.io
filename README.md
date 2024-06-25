@@ -21,18 +21,18 @@
     - [Transform the data](#transform-the-data).
     - [Creating SQL Views](#create-the-sql-view)
 - [Testing](#testing)
--[Data QualityTests](#DataQualityTests)
+      -[Data QualityTests](#DataQualityTests)
 -[Visualization](#Visualization)
     -[Results](#Results)
     -[DAX Measures](#DAX Measures)
 -[Analysis](#Analysis)
-  -[Analysis](#Analysis)
-  -[Validation](#Validation)
-  -[Discovery](#Discovery)
-  -[Recommendations]
+   -[Findings](f#findings)
+   -[Validation](#Validation)
+   -[Discovery](#Discovery)
+-[Recommendations](#Recommendation)
+  -[Potential ROI](#PotentialROI)
+  -[Potential Courses ofActions](#PotentialCoursesofActions)
   
-  
- -[Potential Courses of Actions](#Potential Courses of Actions)
 -[Conclusion]
 
 

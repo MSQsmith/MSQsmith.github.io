@@ -102,7 +102,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart
 
    
-# ToolS used                          
+# Tools used                          
 
 Tool	Purpose
 Excel	        Exploring the data

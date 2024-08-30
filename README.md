@@ -102,7 +102,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart
 
    
-# Toold used                          
+# ToolS used                          
 
 Tool	Purpose
 Excel	        Exploring the data
@@ -201,8 +201,8 @@ SELECT CAST(SUBSTRING(NOMBRE,1,CHARINDEX('@',NOMBRE)-1) AS varchar(100)) AS CHAN
 ,[total_subscribers],
 TOTAL_VIEWS,
 [total_videos]
-FROM 
-[dbo].[youtube_data_united-kingdom. ALL TABLE]
+FROM                                                                                            
+    [dbo].[youtube_data_united-kingdom. ALL TABLE]
 
 ```
   

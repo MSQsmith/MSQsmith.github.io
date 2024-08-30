@@ -92,7 +92,7 @@ To understand what it should contain, we need to figure out what questions we ne
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 7. For now, these are some of the questions we need to answer, this may change as we progress down our analysis.
 
-# Dashboard mockup
+## Dashboard mockup
 What should it look like?
 Some of the data visuals that may be appropriate in answering our questions include:
 
@@ -102,7 +102,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 4. Horizontal bar chart
 
    
-# Tools used                          
+## Tools used                          
 
 Tool	Purpose
 Excel	        Exploring the data
@@ -182,7 +182,7 @@ FROM
 ```
 
 
-## Create the SQL view
+### Create the SQL view
 
 /*
 
